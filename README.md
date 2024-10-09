@@ -8,9 +8,9 @@ dentro del codigo del movimiento hemos añadido rotacion de camara del personaje
 la camara vaya anclada al personaje mientras se mueve por el escenario, se debera abrir descargardo el archivo 
 git del programa, puede que tenga problemas al ejecutar con estos archivos:
 
-Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/TerrainDATA/Terrain.asset
-Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001.tif
-Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_N.png
+1. Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/TerrainDATA/Terrain.asset
+2. Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001.tif
+3. Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_N.png
 
 Con todo es un problema de los assets 
 
